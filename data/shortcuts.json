@@ -1,7 +1,7 @@
 {
   "app": "justview",
   "version": "0.1.25",
-  "generatedAt": 1778806042,
+  "generatedAt": 1778843736,
   "rows": [
     { "mode": "Normal", "group": "Playback", "key": "Esc", "action": "Quit" },
     { "mode": "Normal", "group": "Playback", "key": "Shift+Space", "action": "Exit Quick Look" },
@@ -92,6 +92,8 @@
     { "mode": "Normal", "group": "Export", "key": "Shift+S", "action": "Save current frame — choose format & path" },
     { "mode": "Normal", "group": "Export", "key": "Ctrl+c", "action": "Copy frame" },
     { "mode": "Normal", "group": "Export", "key": "Ctrl+Shift+C", "action": "Copy scene-linear (inspector)" },
+    { "mode": "Normal", "group": "Export", "key": "Ctrl+Alt+c", "action": "Copy file path" },
+    { "mode": "Normal", "group": "Export", "key": "Ctrl+Alt+Enter", "action": "Open containing folder" },
     { "mode": "Normal", "group": "Export", "key": "Ctrl+l", "action": "Export grade as .cube LUT" },
     { "mode": "Normal", "group": "Export", "key": "Ctrl+Shift+K", "action": "Export keyboard shortcuts" },
     { "mode": "Normal", "group": "Edit", "key": "Ctrl+z", "action": "Undo" },
