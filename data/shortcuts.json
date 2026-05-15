@@ -1,7 +1,7 @@
 {
   "app": "justview",
-  "version": "0.1.25",
-  "generatedAt": 1778843736,
+  "version": "0.1.29",
+  "generatedAt": 1778888247,
   "rows": [
     { "mode": "Normal", "group": "Playback", "key": "Esc", "action": "Quit" },
     { "mode": "Normal", "group": "Playback", "key": "Shift+Space", "action": "Exit Quick Look" },
@@ -206,6 +206,7 @@
     { "mode": "OCIO Setup", "group": "OCIO Setup", "key": "Bksp", "action": "Clear filter" },
     { "mode": "OCIO Setup", "group": "OCIO Setup", "key": "/", "action": "Fuzzy find" },
     { "mode": "OCIO Setup", "group": "OCIO Setup", "key": "Space", "action": "Mark for Shift+D cycle" },
+    { "mode": "OCIO Setup", "group": "OCIO Setup", "key": "a", "action": "Mark for Shift+D cycle" },
     { "mode": "AOV Layer List", "group": "Layer List", "key": "Esc", "action": "Exit" },
     { "mode": "AOV Layer List", "group": "Layer List", "key": "Shift+Tab", "action": "Grid view" },
     { "mode": "AOV Layer List", "group": "Layer List", "key": "Up", "action": "Navigate" },
