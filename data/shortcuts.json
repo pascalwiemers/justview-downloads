@@ -1,7 +1,7 @@
 {
   "app": "justview",
-  "version": "0.1.29",
-  "generatedAt": 1778888247,
+  "version": "0.1.30",
+  "generatedAt": 1779827851,
   "rows": [
     { "mode": "Normal", "group": "Playback", "key": "Esc", "action": "Quit" },
     { "mode": "Normal", "group": "Playback", "key": "Shift+Space", "action": "Exit Quick Look" },
@@ -238,6 +238,7 @@
     { "mode": "Analysis Grid", "group": "Analysis Grid", "key": "Shift+T", "action": "Show all items" },
     { "mode": "Analysis Grid", "group": "Analysis Grid", "key": "d", "action": "Toggle OCIO bypass" },
     { "mode": "Analysis Grid", "group": "Analysis Grid", "key": "s", "action": "Toggle selective adjust" },
+    { "mode": "Analysis Grid", "group": "Analysis Grid", "key": "Ctrl+c", "action": "Copy to clipboard" },
     { "mode": "Analysis Grid", "group": "Analysis Grid", "key": "Shift+>", "action": "Param up" },
     { "mode": "Analysis Grid", "group": "Analysis Grid", "key": "Shift+<", "action": "Param down" },
     { "mode": "Analysis Grid", "group": "Analysis Grid", "key": "q", "action": "Exposure -1 (Shift=fine)" },
