@@ -1,7 +1,7 @@
 {
   "app": "justview",
-  "version": "0.1.36",
-  "generatedAt": 1780242464,
+  "version": "0.1.37",
+  "generatedAt": 1781968489,
   "rows": [
     { "mode": "Normal", "group": "Playback", "key": "Esc", "action": "Quit" },
     { "mode": "Normal", "group": "Playback", "key": "Shift+Space", "action": "Exit Quick Look" },
@@ -51,6 +51,7 @@
     { "mode": "Normal", "group": "Other", "key": "Ctrl+p", "action": "Fuzzy finder" },
     { "mode": "Normal", "group": "Other", "key": "Shift+O", "action": "OCIO setup" },
     { "mode": "Normal", "group": "Other", "key": "Ctrl+Shift+O", "action": "Toggle file open behavior" },
+    { "mode": "Normal", "group": "Other", "key": "Ctrl+Shift+R", "action": "Repair blocked image file" },
     { "mode": "Normal", "group": "Other", "key": "Shift+D", "action": "Cycle input colorspace" },
     { "mode": "Normal", "group": "Navigation", "key": "f", "action": "Reset zoom/pan (fit)" },
     { "mode": "Normal", "group": "Navigation", "key": "Ctrl+0", "action": "Reset zoom/pan" },
