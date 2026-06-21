@@ -1,7 +1,7 @@
 {
   "app": "justview",
-  "version": "0.1.38",
-  "generatedAt": 1782053120,
+  "version": "0.1.39",
+  "generatedAt": 1782062450,
   "rows": [
     { "mode": "Normal", "group": "Playback", "key": "Esc", "action": "Quit" },
     { "mode": "Normal", "group": "Playback", "key": "Shift+Space", "action": "Exit Quick Look" },
