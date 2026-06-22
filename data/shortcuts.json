@@ -1,7 +1,7 @@
 {
   "app": "justview",
-  "version": "0.1.39",
-  "generatedAt": 1782062450,
+  "version": "0.1.40",
+  "generatedAt": 1782143009,
   "rows": [
     { "mode": "Normal", "group": "Playback", "key": "Esc", "action": "Quit" },
     { "mode": "Normal", "group": "Playback", "key": "Shift+Space", "action": "Exit Quick Look" },
@@ -45,7 +45,7 @@
     { "mode": "Normal", "group": "Other", "key": "Shift+G", "action": "Metadata HUD" },
     { "mode": "Normal", "group": "Other", "key": "Shift+H", "action": "This help" },
     { "mode": "Normal", "group": "Other", "key": "Ctrl/Cmd+,", "action": "Shortcut editor" },
-    { "mode": "Normal", "group": "Other", "key": "Ctrl/Cmd+Shift+,", "action": "Input sensitivity settings" },
+    { "mode": "Normal", "group": "Other", "key": "Ctrl/Cmd+Shift+,", "action": "Input settings" },
     { "mode": "Normal", "group": "Other", "key": "u", "action": "Basic file info" },
     { "mode": "Normal", "group": "Other", "key": "Shift+U", "action": "Full metadata" },
     { "mode": "Normal", "group": "Other", "key": "Shift+B", "action": "Folder browser" },
