@@ -1,7 +1,7 @@
 {
   "app": "justview",
-  "version": "0.1.43",
-  "generatedAt": 1785762267,
+  "version": "0.1.44",
+  "generatedAt": 1788525414,
   "rows": [
     { "mode": "Normal", "group": "Playback", "key": "Esc", "action": "Quit" },
     { "mode": "Normal", "group": "Playback", "key": "Shift+Space", "action": "Exit Quick Look" },
@@ -46,6 +46,7 @@
     { "mode": "Normal", "group": "Other", "key": "g", "action": "Frame info overlay" },
     { "mode": "Normal", "group": "Other", "key": "Shift+G", "action": "Metadata HUD" },
     { "mode": "Normal", "group": "Other", "key": "Shift+H", "action": "This help" },
+    { "mode": "Normal", "group": "Other", "key": "Ctrl/Cmd+g", "action": "Toggle GUI panels" },
     { "mode": "Normal", "group": "Other", "key": "Ctrl/Cmd+,", "action": "Shortcut editor" },
     { "mode": "Normal", "group": "Other", "key": "Ctrl/Cmd+Shift+,", "action": "Input settings" },
     { "mode": "Normal", "group": "Other", "key": "u", "action": "Basic file info" },
